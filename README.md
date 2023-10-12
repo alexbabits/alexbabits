@@ -11,3 +11,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=guns-and-coffee-dapp" alt="Readme Card">
   </a>
 </div>
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/alexbabits/quadratic-voting-dApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=quadratic-voting-dApp" alt="Readme Card">
+  </a>
+</div>
