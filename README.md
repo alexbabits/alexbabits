@@ -7,12 +7,15 @@
   <a href="https://github.com/alexbabits/ethernaut-solutions-hardhat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=ethernaut-solutions-hardhat" alt="Readme Card">
   </a>
-  <a href="https://github.com/alexbabits/guns-and-coffee-dapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=guns-and-coffee-dapp" alt="Readme Card">
+  <a href="https://github.com/alexbabits/damn-vulnerable-defi-ctfs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=damn-vulnerable-defi-ctfs" alt="Readme Card">
   </a>
 </div>
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://github.com/alexbabits/quadratic-voting-dApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=quadratic-voting-dApp" alt="Readme Card">
+  </a>
+  <a href="https://github.com/alexbabits/guns-and-coffee-dapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=guns-and-coffee-dapp" alt="Readme Card">
   </a>
 </div>
