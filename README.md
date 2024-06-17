@@ -13,9 +13,9 @@
 </div>
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://github.com/alexbabits/quadratic-voting-dApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=quadratic-voting-dApp" alt="Readme Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=entropy-oracle" alt="Readme Card">
   </a>
   <a href="https://github.com/alexbabits/guns-and-coffee-dapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=guns-and-coffee-dapp" alt="Readme Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=diamond-3-foundry" alt="Readme Card">
   </a>
 </div>
