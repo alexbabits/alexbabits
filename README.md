@@ -12,10 +12,10 @@
   </a>
 </div>
 <div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/alexbabits/quadratic-voting-dApp">
+  <a href="https://github.com/alexbabits/entropy-oracle">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=entropy-oracle" alt="Readme Card">
   </a>
-  <a href="https://github.com/alexbabits/guns-and-coffee-dapp">
+  <a href="https://github.com/alexbabits/diamond-3-foundry">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=diamond-3-foundry" alt="Readme Card">
   </a>
 </div>
