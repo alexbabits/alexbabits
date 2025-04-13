@@ -4,8 +4,8 @@
 <br/>
 <br/>
 <div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/alexbabits/ethernaut-solutions-hardhat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=ethernaut-solutions-hardhat" alt="Readme Card">
+  <a href="https://github.com/alexbabits/pip">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=pip" alt="Readme Card">
   </a>
   <a href="https://github.com/alexbabits/damn-vulnerable-defi-ctfs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexbabits&repo=damn-vulnerable-defi-ctfs" alt="Readme Card">
